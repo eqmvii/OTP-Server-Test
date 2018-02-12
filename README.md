@@ -1,6 +1,8 @@
 # Sequenceserver
 
-**TODO: Add description**
+OTP server test mix project
+
+coded from Programming Elixir 1.3 chapter 17
 
 ## Installation
 
